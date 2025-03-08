@@ -1,0 +1,13 @@
+hr  { 
+    height: 10px;
+    background-color: rgb(43, 116, 226);
+    width: 800px;
+  
+}
+
+.imagen { 
+    width: 150px;
+    border-radius:300px ;
+    height: 200px;
+    
+}
